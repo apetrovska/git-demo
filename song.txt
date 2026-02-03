@@ -2,3 +2,5 @@ sword and spear
 wall of shields
 standing strong
 on their chosen battlefield
+
+new line for commit 1
